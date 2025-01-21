@@ -1,0 +1,27 @@
+.food-menu-container {
+    padding: 20px;
+  }
+  
+  .food-menu-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .food-menu-table th,
+  .food-menu-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .food-menu-table th {
+    background-color: #f4f4f4;
+  }
+  
+  .food-image {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+  }
+  
